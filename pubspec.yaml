@@ -1,7 +1,9 @@
 name: alghwalbi_background_location
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: A location plugin that works in the background. Supports Android and iOS.
+version: 0.0.1 
+homepage: https://github.com/ahmedabdelrahmanalghwalbi/alghwalbi_background_location
+repository: https://github.com/ahmedabdelrahmanalghwalbi/alghwalbi_background_location
+issue_tracker: https://github.com/ahmedabdelrahmanalghwalbi/alghwalbi_background_location/issues
 
 environment:
   sdk: ^3.8.1
@@ -18,4 +20,6 @@ dev_dependencies:
   background_locator_2: ^2.0.6
 
 flutter:
-
+  platforms:
+    android:
+    ios:
