@@ -1,6 +1,6 @@
 name: alghwalbi_background_location
 description: A location plugin that works in the background. Supports Android and iOS.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/ahmedabdelrahmanalghwalbi/alghwalbi_background_location
 repository: https://github.com/ahmedabdelrahmanalghwalbi/alghwalbi_background_location
 issue_tracker: https://github.com/ahmedabdelrahmanalghwalbi/alghwalbi_background_location/issues
